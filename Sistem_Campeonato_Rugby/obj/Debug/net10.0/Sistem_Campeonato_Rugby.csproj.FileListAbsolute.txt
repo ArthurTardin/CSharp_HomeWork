@@ -1,0 +1,14 @@
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\bin\Debug\net10.0\Sistem_Campeonato_Rugby.exe
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\bin\Debug\net10.0\Sistem_Campeonato_Rugby.deps.json
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\bin\Debug\net10.0\Sistem_Campeonato_Rugby.runtimeconfig.json
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\bin\Debug\net10.0\Sistem_Campeonato_Rugby.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\bin\Debug\net10.0\Sistem_Campeonato_Rugby.pdb
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.AssemblyInfoInputs.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.AssemblyInfo.cs
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.csproj.CoreCompileInputs.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\refint\Sistem_Campeonato_Rugby.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.pdb
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\Sistem_Campeonato_Rugby.genruntimeconfig.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistem_Campeonato_Rugby\obj\Debug\net10.0\ref\Sistem_Campeonato_Rugby.dll
