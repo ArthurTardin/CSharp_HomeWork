@@ -1,0 +1,14 @@
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\bin\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.exe
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\bin\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.deps.json
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\bin\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.runtimeconfig.json
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\bin\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.dll
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\bin\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.pdb
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.AssemblyInfoInputs.cache
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.AssemblyInfo.cs
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.csproj.CoreCompileInputs.cache
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.dll
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\refint\Sistema_De_Conta_De_Arbitragem.dll
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.pdb
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\Sistema_De_Conta_De_Arbitragem.genruntimeconfig.cache
+C:\Users\adm\Sistema_De_Conta_De_Arbitragem\obj\Debug\net10.0\ref\Sistema_De_Conta_De_Arbitragem.dll
