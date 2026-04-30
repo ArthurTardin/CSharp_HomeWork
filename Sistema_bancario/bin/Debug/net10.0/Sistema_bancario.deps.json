@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sistema_bancario/1.0.0": {
+        "runtime": {
+          "Sistema_bancario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema_bancario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\bin\Debug\net10.0\Sistema_bancario.exe
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\bin\Debug\net10.0\Sistema_bancario.deps.json
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\bin\Debug\net10.0\Sistema_bancario.runtimeconfig.json
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\bin\Debug\net10.0\Sistema_bancario.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\bin\Debug\net10.0\Sistema_bancario.pdb
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.AssemblyInfoInputs.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.AssemblyInfo.cs
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.csproj.CoreCompileInputs.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\refint\Sistema_bancario.dll
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.pdb
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\Sistema_bancario.genruntimeconfig.cache
+D:\Senai_Arthur_Tardin\Project\Project_geral\Sistema_bancario\obj\Debug\net10.0\ref\Sistema_bancario.dll
